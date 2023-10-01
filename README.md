@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Rahul Kumar** , a senior at IIIT Ranchi
+I am **Rahul Kumar**, a final year student at the Indian Institute of Information Technology, Ranchi pursuing Bachelors of Technology in Computer Science and Engineering
 
 
 
