@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am **Rahul Kumar**, a final year student at the Indian Institute of Information Technology, Ranchi pursuing Bachelors of Technology in Computer Science and Engineering
+I am **Rahul Kumar**, recently graudated from Indian Institute of Information Technology, Ranchi pursued Bachelors of Technology in Computer Science and Engineering, currently working as a **Software Engineer Intern**
+at Wendor
 
 
 
