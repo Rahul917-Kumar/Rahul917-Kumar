@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am **Rahul Kumar**, recently graudated from Indian Institute of Information Technology, Ranchi pursued Bachelors of Technology in Computer Science and Engineering, currently working as a **Software Engineer Intern**
-at Wendor
+I am **Rahul Kumar**, recently graudated from Indian Institute of Information Technology, Ranchi pursued Bachelors of Technology in Computer Science and Engineering, currently working as a **Software Engineer**
+at Girmantech
 
 
 
